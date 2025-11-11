@@ -32,7 +32,8 @@ POST /api/items
 {
   "sku": "TSHIRT-001",
   "name": "T-Shirt",
-  "description": "Cotton T-Shirt"
+  "description": "Cotton T-Shirt",
+  "userName": "testing01"
 }
 ```
 
